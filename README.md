@@ -15,7 +15,7 @@
 
 ![BLL层](https://github.com/xinxin321198/mcylDoc/blob/master/doc/%E6%9E%B6%E6%9E%84%E5%9B%BE/BLL.png)
 
-![DAL层](https://github.com/xinxin321198/mcylDoc/blob/master/doc/%E6%9E%B6%E6%9E%84%E5%9B%BE/BLL.png)
+![DAL层](https://github.com/xinxin321198/mcylDoc/blob/master/doc/%E6%9E%B6%E6%9E%84%E5%9B%BE/DAL.png)
 
 * 昵称：loserStar<br/>
 * email:xinxin321198@gmail.com<br/>
